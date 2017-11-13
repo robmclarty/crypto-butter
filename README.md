@@ -1,6 +1,6 @@
 # Crypto Butter
 
-Spread some crypto butter all over your project and scramble it into omlett-y
+Spread some crypto butter all over your project and scramble it into omelette-y
 goodness ready to pour into the storage container of your choice. Also good for
 squeezing into web inter-tubes for long-distance crypto flows. Act now, and get
 all this, plus a limited time compression/decompression add-on for only six
@@ -184,3 +184,14 @@ formatted as:
   mac
 }
 ```
+
+## Licesnse
+
+[MIT](./LICENSE)
+
+## Acknowledgements
+
+I'm using [base64-js](https://github.com/beatgammit/base64-js) for encoding
+stuff and [pako](https://github.com/nodeca/pako) for compression stuff. The rest
+of the crypto parts are from the
+[NodeJS Crypto module](https://nodejs.org/dist/latest-v8.x/docs/api/crypto.html).
