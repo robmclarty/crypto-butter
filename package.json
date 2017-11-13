@@ -1,0 +1,27 @@
+{
+  "name": "crypto-butter",
+  "version": "0.0.1",
+  "description": "A small basket of crypto goodies to help you scramble your data into a tasty omlette.",
+  "main": "index.js",
+  "scripts": {
+    "test": "haha no"
+  },
+  "repository": "git@github.com:robmclarty/crypto-butter.git",
+  "author": "Rob McLarty <r@robmclarty.com> (http://robmclarty.com)",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "keywords": [
+    "crypto",
+    "encryption",
+    "compression",
+    "tools",
+    "aes",
+    "hmac"
+  ],
+  "dependencies": {
+    "base64-js": "^1.2.1",
+    "pako": "^1.0.6"
+  }
+}
